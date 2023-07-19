@@ -1,0 +1,7 @@
+# Settings for air quality
+nest_seconds_fan_on: 900 # Seconds to run fan when air quality is out of range
+radon_threshold: 100 # Bq/m3
+pm25_threshold: 15 # ug/m3. Note: Airthings threshold is 10
+voc_threshold: 250 # ppb
+co2_threshold: 800 # ppm
+humidity_threshold: 60 # %
